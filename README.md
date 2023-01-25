@@ -1,5 +1,6 @@
 ## illustration
-This is the design data for MilliLoc.
+We present MilliLoc, a novel system that may promote acoustic-based locating and tracking to be applied in HCI. This is the design data for MilliLoc.
+
 
 ## Auther
 #  Designer： Zhisheng Wang 
